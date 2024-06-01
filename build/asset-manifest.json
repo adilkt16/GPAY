@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gpay/static/css/main.ff60c36c.css",
+    "main.js": "/gpay/static/js/main.ae60b740.js",
+    "static/js/453.8537d18e.chunk.js": "/gpay/static/js/453.8537d18e.chunk.js",
+    "static/media/paymentphoto.png": "/gpay/static/media/paymentphoto.1cd7702a6afb233f09f0.png",
+    "static/media/rewards.png": "/gpay/static/media/rewards.af7b6793e987d18d4d29.png",
+    "static/media/offers.png": "/gpay/static/media/offers.d7ea82b61c5830212318.png",
+    "static/media/down.png": "/gpay/static/media/down.5c949c23cfb88d5007c0.png",
+    "static/media/refferals.png": "/gpay/static/media/refferals.e138c226d60dc24887b8.png",
+    "static/media/time-left.png": "/gpay/static/media/time-left.bfd94c54a9850a6bed69.png",
+    "static/media/speedometer.png": "/gpay/static/media/speedometer.5ac0dfee6c90cad72331.png",
+    "static/media/tezshots.png": "/gpay/static/media/tezshots.30976fed71e16e08d7d3.png",
+    "index.html": "/gpay/index.html",
+    "main.ff60c36c.css.map": "/gpay/static/css/main.ff60c36c.css.map",
+    "main.ae60b740.js.map": "/gpay/static/js/main.ae60b740.js.map",
+    "453.8537d18e.chunk.js.map": "/gpay/static/js/453.8537d18e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff60c36c.css",
+    "static/js/main.ae60b740.js"
+  ]
+}
