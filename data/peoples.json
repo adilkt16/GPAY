@@ -1,0 +1,47 @@
+{
+    "peoples": [
+      {
+        "id": 1,
+        "name": "Fayez",
+        "letter": "F",
+        "color": "red"
+      },
+      {
+        "id": 2,
+        "name": "sameer",
+        "letter": "s",
+        "color": "violet"
+      },
+      {
+        "id": 3,
+        "name": "Fardeen",
+        "letter": "F",
+        "color": "red"
+      },
+      {
+        "id": 4,
+        "name": "Shadan",
+        "letter": "S",
+        "color": "darkviolet"
+      },
+      {
+        "id": 5,
+        "name": "K T",
+        "letter": "K",
+        "color": "red"
+      },
+      {
+        "id": 6,
+        "name": "Nishan",
+        "letter": "N",
+        "color": "orange"
+      },
+      {
+        "id": 7,
+        "name": "Nikhil",
+        "letter": "N",
+        "color": "gray"
+      }
+    ]
+  }
+

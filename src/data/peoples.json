@@ -1,0 +1,68 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "name": "Fayez",
+      "letter_or_link": {
+        "type": "link",
+        "value": "https://img.freepik.com/free-photo/beautiful-male-half-length-portrait-isolated-white-studio-background-young-emotional-hindu-man-blue-shirt-facial-expression-human-emotions-advertising-concept-standing-smiling_155003-25250.jpg?w=740&t=st=1715408673~exp=1715409273~hmac=eb1320e11c2fd6498020ac108f595336474f54a0e6f9ae46b99cef1c319df797"
+      },
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "Sameer",
+      "letter_or_link": {
+        "type": "text",
+        "value": "S"
+      },
+      "color": "violet"
+    },
+    {
+      "id": 3,
+      "name": "Fardeen",
+      "letter_or_link": {
+        "type": "text",
+        "value": "F"
+      },
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "name": "Nikhil",
+      "letter_or_link": {
+        "type": "link",
+        "value": "https://cdn.i-scmp.com/sites/default/files/styles/landscape/public/d8/yp/images/graffiti.jpg?itok=zdICBVl0"
+      },
+      "color": "darkviolet"
+    },
+    {
+      "id": 5,
+      "name": "K T",
+      "letter_or_link": {
+        "type": "text",
+        "value": "K"
+      },
+      "color": "red"
+    },
+    {
+      "id": 6,
+      "name": "Nishan",
+      "letter_or_link": {
+        "type": "link",
+        "value": "https://i.etsystatic.com/25834028/r/il/3a6bf9/5516647527/il_794xN.5516647527_o9zn.jpg"
+      },
+      "color": "orange"
+    },
+    {
+      "id": 7,
+      "name": "Shadan",
+      "letter_or_link": {
+        "type": "text",
+        "value": "S"
+      },
+      "color": "gray"
+    }
+  ]
+}
+

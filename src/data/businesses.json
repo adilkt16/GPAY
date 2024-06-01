@@ -1,0 +1,26 @@
+{
+  "businesses": [
+    {
+      "id": 1,
+      "name": "Shawaya Hub",
+      "letter" : "S",
+      "color": "gray"
+    },
+    {
+      "id": 2,
+      "name": "Textiles",
+      "letter" : "T",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "name": "Hyper Budget",
+      "letter" : "H",
+      "color": "red"
+    }
+  ]
+}
+
+
+
+
